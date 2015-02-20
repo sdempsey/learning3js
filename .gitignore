@@ -1,0 +1,6 @@
+.sass-cache/
+.DS_Store
+node_modules/
+npm-debug.log
+public/library/js/*.min.js.map
+public/library/css/*.css.map
